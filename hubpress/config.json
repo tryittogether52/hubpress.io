@@ -4,7 +4,15 @@
     "repositoryName": "tryittogether52.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Tech Blog."
+  },
+  "socialnetwork": {
+    "email": "tryittogether52@gmail.com",
+    "facebook": "https://www.facebook.com/vuthanhcrazy",
+    "github": "https://github.com/tryittogether52"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
