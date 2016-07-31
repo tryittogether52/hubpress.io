@@ -5,7 +5,7 @@
 
 1. LFS on VM: http://blog.iandreev.com/?p=729
 2. Main page: http://www.linuxfromscratch.org/lfs/view/7.3/
-3. Tham khảo: https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/
+3. Fix lỗi sai bàn phím (bấm phím z, hiện ra y): https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/
 4. Fix lỗi network eth0:
 https://access.redhat.com/discussions/1240213
  
