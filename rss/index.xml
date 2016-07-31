@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:12:12 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="sect2">
-<h3 id="_2_main_page_a_href_http_www_linuxfromscratch_org_lfs_view_7_3_class_bare_http_www_linuxfromscratch_org_lfs_view_7_3_a">2. Main page: <a href="http://www.linuxfromscratch.org/lfs/view/7.3/" class="bare">http://www.linuxfromscratch.org/lfs/view/7.3/</a></h3>
-
-</div>
-<div class="sect2">
-<h3 id="_3_tham_kh_o_a_href_https_luorhino2006_wordpress_com_2010_04_02_build_linux_from_scratch_class_bare_https_luorhino2006_wordpress_com_2010_04_02_build_linux_from_scratch_a">3. Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a></h3>
-
-</div>
-<div class="sect2">
-<h3 id="_4_fix_l_i_network_eth0_a_href_https_access_redhat_com_discussions_1240213_class_bare_https_access_redhat_com_discussions_1240213_a">4: Fix lỗi network eth0: <a href="https://access.redhat.com/discussions/1240213" class="bare">https://access.redhat.com/discussions/1240213</a></h3>
-<div class="exampleblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:13:47 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Main page: <a href="http://www.linuxfromscratch.org/lfs/view/7.3/" class="bare">http://www.linuxfromscratch.org/lfs/view/7.3/</a></p>
+</li>
+<li>
+<p>Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a>
+4: Fix lỗi network eth0: <a href="https://access.redhat.com/discussions/1240213" class="bare">https://access.redhat.com/discussions/1240213</a></p>
+<div class="literalblock">
 <div class="content">
-<div class="paragraph">
-<p>export INTERFACE=eth0
+<pre>export INTERFACE=eth0
 export MATCHADDR="ip addr show $INTERFACE | grep ether | awk '{print $2}'"
 /lib/udev/write_net_rules
-less /etc/udev/rules.d/70-persistent-net.rules</p>
+less /etc/udev/rules.d/70-persistent-net.rules</pre>
 </div>
 </div>
-</div>
-</div>]]></description><link>https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html</link><guid isPermaLink="true">https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html</guid><pubDate>Sun, 31 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</li>
+</ol>
+</div>]]></description><link>https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html</link><guid isPermaLink="true">https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html</guid><category><![CDATA[Linux]]></category><pubDate>Sun, 31 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
