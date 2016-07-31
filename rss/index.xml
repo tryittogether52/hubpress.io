@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:17:07 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="sect5">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:18:25 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="sect5">
 <h6 id="_link_tutorials">Link tutorials:</h6>
 <div class="olist arabic">
 <ol class="arabic">
@@ -9,7 +9,7 @@
 <p>Main page: <a href="http://www.linuxfromscratch.org/lfs/view/7.3/" class="bare">http://www.linuxfromscratch.org/lfs/view/7.3/</a></p>
 </li>
 <li>
-<p>Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a></p>
+<p>Fix lỗi sai bàn phím (bấm phím z, hiện ra y): <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a></p>
 </li>
 <li>
 <p>Fix lỗi network eth0:
