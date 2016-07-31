@@ -12,7 +12,7 @@
 
     <link rel="shortcut icon" href="https://tryittogether52.github.io/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="//tryittogether52.github.io/themes/casper/assets/css/screen.css?v=1469981363923" />
+    <link rel="stylesheet" type="text/css" href="//tryittogether52.github.io/themes/casper/assets/css/screen.css?v=1469981532935" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
     <link rel="canonical" href="https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html" />
@@ -21,9 +21,11 @@
     <meta property="og:site_name" content="Tech Blog." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Linux from scratch" />
+    <meta property="og:description" content="2. Main page: http://www.linuxfromscratch.org/lfs/view/7.3/ 3. Tham khảo: https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/ 4: Fix lỗi network eth0: https://access.redhat.com/discussions/1240213 export INTERFACE&#x3D;eth0 export MATCHADDR&#x3D;&quot;ip addr show $INTERFACE | grep ether | awk &#x27;{print $2}&#x27;&quot; /lib/" />
     <meta property="og:url" content="https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Linux from scratch" />
+    <meta name="twitter:description" content="2. Main page: http://www.linuxfromscratch.org/lfs/view/7.3/ 3. Tham khảo: https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/ 4: Fix lỗi network eth0: https://access.redhat.com/discussions/1240213 export INTERFACE&#x3D;eth0 export MATCHADDR&#x3D;&quot;ip addr show $INTERFACE | grep ether | awk &#x27;{print $2}&#x27;&quot; /lib/" />
     <meta name="twitter:url" content="https://tryittogether52.github.io/2016/07/31/Linux-from-scratch.html" />
     
     <script type="application/ld+json">
@@ -59,7 +61,27 @@ null
         </header>
 
         <section class="post-content">
-            
+            <div class="sect2">
+<h3 id="_2_main_page_a_href_http_www_linuxfromscratch_org_lfs_view_7_3_class_bare_http_www_linuxfromscratch_org_lfs_view_7_3_a">2. Main page: <a href="http://www.linuxfromscratch.org/lfs/view/7.3/" class="bare">http://www.linuxfromscratch.org/lfs/view/7.3/</a></h3>
+
+</div>
+<div class="sect2">
+<h3 id="_3_tham_kh_o_a_href_https_luorhino2006_wordpress_com_2010_04_02_build_linux_from_scratch_class_bare_https_luorhino2006_wordpress_com_2010_04_02_build_linux_from_scratch_a">3. Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a></h3>
+
+</div>
+<div class="sect2">
+<h3 id="_4_fix_l_i_network_eth0_a_href_https_access_redhat_com_discussions_1240213_class_bare_https_access_redhat_com_discussions_1240213_a">4: Fix lỗi network eth0: <a href="https://access.redhat.com/discussions/1240213" class="bare">https://access.redhat.com/discussions/1240213</a></h3>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>export INTERFACE=eth0
+export MATCHADDR="ip addr show $INTERFACE | grep ether | awk '{print $2}'"
+/lib/udev/write_net_rules
+less /etc/udev/rules.d/70-persistent-net.rules</p>
+</div>
+</div>
+</div>
+</div>
         </section>
 
         <footer class="post-footer">
@@ -129,8 +151,8 @@ null
         hljs.initHighlightingOnLoad();
       </script>
 
-    <script type="text/javascript" src="//tryittogether52.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1469981363923"></script>
-    <script type="text/javascript" src="//tryittogether52.github.io/themes/casper/assets/js/index.js?v=1469981363923"></script>
+    <script type="text/javascript" src="//tryittogether52.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1469981532935"></script>
+    <script type="text/javascript" src="//tryittogether52.github.io/themes/casper/assets/js/index.js?v=1469981532935"></script>
 
 </body>
 </html>
