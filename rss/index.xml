@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:13:47 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="olist arabic">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tech Blog.]]></title><description><![CDATA[Tech Blog.]]></description><link>https://tryittogether52.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Jul 2016 16:14:54 GMT</lastBuildDate><atom:link href="https://tryittogether52.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Linux from scratch]]></title><description><![CDATA[<div class="olist arabic">
 <ol class="arabic">
 <li>
 <p>Main page: <a href="http://www.linuxfromscratch.org/lfs/view/7.3/" class="bare">http://www.linuxfromscratch.org/lfs/view/7.3/</a></p>
 </li>
 <li>
-<p>Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a>
-4: Fix lỗi network eth0: <a href="https://access.redhat.com/discussions/1240213" class="bare">https://access.redhat.com/discussions/1240213</a></p>
+<p>Tham khảo: <a href="https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/" class="bare">https://luorhino2006.wordpress.com/2010/04/02/build-linux-from-scratch/</a></p>
+</li>
+<li>
+<p>Fix lỗi network eth0: <a href="https://access.redhat.com/discussions/1240213" class="bare">https://access.redhat.com/discussions/1240213</a></p>
 <div class="literalblock">
 <div class="content">
 <pre>export INTERFACE=eth0
